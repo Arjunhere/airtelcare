@@ -17,7 +17,7 @@
                 width: 50%;
                 margin: auto;
             }
-            input[type=text], select, input[type=password], [input[type=email] {
+            input[type=text], select, input[type=password], input[type=email] {
                 width: 100%;
                 padding: 5px 8px;
                 box-sizing: border-box;
